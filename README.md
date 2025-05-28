@@ -1,7 +1,9 @@
 
+
+
 </p>
 
-<h1 align="center">Olá 👋, eu sou Renan </h1>
+<h1 align="center">Olá 🧑🏽‍💻, eu sou Renan </h1>
 <h3 align="center">Engenheiro da Computação focado em resolver problemas complexos através da Inteligência Artificial e otimização de algoritmos.</h3>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ---
 
-<h3 align="left">Minhas Skills:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -37,7 +39,7 @@
 
 ---
 
-<h3 align="left">Estatísticas do GitHub:</h3>
+<h3 align="left">Estatísticas:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renansbernardo&show_icons=true&locale=pt-br&theme=dracula&hide_border=true" alt="Estatísticas de José Renan" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansbernardo&layout=compact&locale=pt-br&theme=dracula&hide_border=true" alt="Linguagens mais usadas de José Renan" />
@@ -49,8 +51,3 @@
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/renansbernardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Renan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/renansbernard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram de Renan" height="30" width="40" /></a>
-</p>
