@@ -11,9 +11,8 @@
 
 ### Engenheiro da Computação · Full Stack Developer · Salvador, BA 🇧🇷
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://renansbernardo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://renan.agendexs.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renansbernardo)
-[![Agendexs](https://img.shields.io/badge/Agendexs-4F46E5?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://agendexs.com.br)
 
 </div>
 
@@ -79,7 +78,7 @@ const renan = {
 |---|---|---|---|
 | **Agendexs** | Plataforma SaaS de agendamento online para negócios de serviços. Painel para dono do negócio + painel para cliente final. | Next.js · Prisma · Supabase · Stripe · NextAuth | [Agendexs](https://agendexs.com.br) |
 | **Portfólio** | Site pessoal com CMS administrativo, chatbot Gemini com streaming e autenticação. | Next.js · Prisma · NextAuth · Zod · Gemini API | [Portfólio](https://renan.agendexs.com.br/) |
-| **IoT Monitor** | TCC — Sistema de monitoramento de energia elétrica com sensor físico integrado a dashboard em tempo real. | Python · IoT · Dashboard | [Ver projeto](https://renan.agendexs.com.br/projects/7) |
+| **IoT Monitor** | TCC — Sistema de monitoramento de energia elétrica com sensor físico integrado a dashboard em tempo real. | Python · IoT · Dashboard | [Projeto](https://renan.agendexs.com.br/projects/7) |
 
 </div>
 
@@ -123,7 +122,7 @@ const renan = {
 
 <div align="center">
 
-*"Construo produtos do zero — da ideia ao deploy."*
+*"Escrevo código. Resolvo problemas. Entrego resultados."*
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=renansbernardo&color=58a6ff&style=flat-square&label=visitas)
 
